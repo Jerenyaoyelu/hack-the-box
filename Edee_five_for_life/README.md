@@ -2,10 +2,10 @@
 
 Run the instance:
 
-[](./instanceUp.png)
+![](./instanceUp.png)
 
 Go to instance:
-[](./try1.png)
+![](./try1.png)
 
 # Initial Trials
 
