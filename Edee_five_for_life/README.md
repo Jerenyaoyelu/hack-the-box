@@ -18,4 +18,7 @@ So I think maybe this is not the correct way to do. I start to think what is the
 I did some reseach and decided use `requests`, `hashlib` and `beautifulSoup 4` to complete this script. [Click Here](./script.py)
 
 # Result
-After running this script, I indeed successfully got the flag. But this script is not 100% guarantee to succeed every time.
+After running this script, I indeed successfully got the flag. 
+
+![](./res.png)
+**Note** this script is not 100% guarantee to succeed every time.
